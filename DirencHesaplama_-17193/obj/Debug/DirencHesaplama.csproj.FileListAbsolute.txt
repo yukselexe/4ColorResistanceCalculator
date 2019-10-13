@@ -1,0 +1,12 @@
+D:\YEDEKLENECEK\0UYGULAMALARIM0\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama.Form1.resources
+D:\YEDEKLENECEK\0UYGULAMALARIM0\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama.Properties.Resources.resources
+D:\YEDEKLENECEK\0UYGULAMALARIM0\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama.Form1.tr-TR.resources
+D:\YEDEKLENECEK\0UYGULAMALARIM0\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama.csproj.GenerateResource.cache
+D:\YEDEKLENECEK\0UYGULAMALARIM0\DirencHesaplama_-17193\DirencHesaplama_-17193\bin\Debug\DirencHesaplama.exe.config
+D:\YEDEKLENECEK\0UYGULAMALARIM0\DirencHesaplama_-17193\DirencHesaplama_-17193\bin\Debug\DirencHesaplama.exe
+D:\YEDEKLENECEK\0UYGULAMALARIM0\DirencHesaplama_-17193\DirencHesaplama_-17193\bin\Debug\DirencHesaplama.pdb
+D:\YEDEKLENECEK\0UYGULAMALARIM0\DirencHesaplama_-17193\DirencHesaplama_-17193\bin\Debug\tr-TR\DirencHesaplama.resources.dll
+D:\YEDEKLENECEK\0UYGULAMALARIM0\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\tr-TR\DirencHesaplama.resources.dll
+D:\YEDEKLENECEK\0UYGULAMALARIM0\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama.exe
+D:\YEDEKLENECEK\0UYGULAMALARIM0\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama.pdb
+D:\YEDEKLENECEK\0UYGULAMALARIM0\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama.csprojAssemblyReference.cache

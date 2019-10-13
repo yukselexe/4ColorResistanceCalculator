@@ -1,0 +1,59 @@
+C:\Users\Yüksel Ant\Desktop\DirencHesaplama_-17193\DirencHesaplama_-17193\bin\Debug\DirencHesaplama_-17193.exe.config
+C:\Users\Yüksel Ant\Desktop\DirencHesaplama_-17193\DirencHesaplama_-17193\bin\Debug\DirencHesaplama_-17193.exe
+C:\Users\Yüksel Ant\Desktop\DirencHesaplama_-17193\DirencHesaplama_-17193\bin\Debug\DirencHesaplama_-17193.pdb
+C:\Users\Yüksel Ant\Desktop\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama_-17193.csprojAssemblyReference.cache
+C:\Users\Yüksel Ant\Desktop\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama__17193.Form1.resources
+C:\Users\Yüksel Ant\Desktop\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama__17193.Properties.Resources.resources
+C:\Users\Yüksel Ant\Desktop\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama_-17193.csproj.GenerateResource.cache
+C:\Users\Yüksel Ant\Desktop\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama_-17193.csproj.CoreCompileInputs.cache
+C:\Users\Yüksel Ant\Desktop\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama_-17193.exe
+C:\Users\Yüksel Ant\Desktop\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama_-17193.pdb
+C:\Users\Yüksel Ant\Desktop\Form Programlarım\DirencHesaplama_-17193\DirencHesaplama_-17193\bin\Debug\DirencHesaplama_-17193.exe.config
+C:\Users\Yüksel Ant\Desktop\Form Programlarım\DirencHesaplama_-17193\DirencHesaplama_-17193\bin\Debug\DirencHesaplama_-17193.exe
+C:\Users\Yüksel Ant\Desktop\Form Programlarım\DirencHesaplama_-17193\DirencHesaplama_-17193\bin\Debug\DirencHesaplama_-17193.pdb
+C:\Users\Yüksel Ant\Desktop\Form Programlarım\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama_-17193.csprojAssemblyReference.cache
+C:\Users\Yüksel Ant\Desktop\Form Programlarım\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama__17193.Form1.resources
+C:\Users\Yüksel Ant\Desktop\Form Programlarım\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama__17193.Properties.Resources.resources
+C:\Users\Yüksel Ant\Desktop\Form Programlarım\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama_-17193.csproj.GenerateResource.cache
+C:\Users\Yüksel Ant\Desktop\Form Programlarım\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama_-17193.csproj.CoreCompileInputs.cache
+C:\Users\Yüksel Ant\Desktop\Form Programlarım\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama_-17193.exe
+C:\Users\Yüksel Ant\Desktop\Form Programlarım\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama_-17193.pdb
+C:\Users\Yüksel Ant\Desktop\Form Programlarım\DirencHesaplama_-17193\DirencHesaplama_-17193\bin\Debug\tr-TR\DirencHesaplama_-17193.resources.dll
+C:\Users\Yüksel Ant\Desktop\Form Programlarım\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama__17193.Form1.tr-TR.resources
+C:\Users\Yüksel Ant\Desktop\Form Programlarım\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\tr-TR\DirencHesaplama_-17193.resources.dll
+D:\c#Form\DirencHesaplama_-17193\DirencHesaplama_-17193\bin\Debug\DirencHesaplama_-17193.exe.config
+D:\c#Form\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama_-17193.exe
+D:\c#Form\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama_-17193.pdb
+D:\c#Form\DirencHesaplama_-17193\DirencHesaplama_-17193\bin\Debug\DirencHesaplama_-17193.exe
+D:\c#Form\DirencHesaplama_-17193\DirencHesaplama_-17193\bin\Debug\DirencHesaplama_-17193.pdb
+D:\c#Form\DirencHesaplama_-17193\DirencHesaplama_-17193\bin\Debug\tr-TR\DirencHesaplama_-17193.resources.dll
+D:\c#Form\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama_-17193.csprojResolveAssemblyReference.cache
+D:\c#Form\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama__17193.Form1.resources
+D:\c#Form\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama__17193.Properties.Resources.resources
+D:\c#Form\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama__17193.Form1.tr-TR.resources
+D:\c#Form\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama_-17193.csproj.GenerateResource.Cache
+D:\c#Form\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\tr-TR\DirencHesaplama_-17193.resources.dll
+K:\c#Form\DirencHesaplama_-17193\DirencHesaplama_-17193\bin\Debug\DirencHesaplama_-17193.exe.config
+K:\c#Form\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama_-17193.exe
+K:\c#Form\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama_-17193.pdb
+K:\c#Form\DirencHesaplama_-17193\DirencHesaplama_-17193\bin\Debug\DirencHesaplama_-17193.exe
+K:\c#Form\DirencHesaplama_-17193\DirencHesaplama_-17193\bin\Debug\DirencHesaplama_-17193.pdb
+K:\c#Form\DirencHesaplama_-17193\DirencHesaplama_-17193\bin\Debug\tr-TR\DirencHesaplama_-17193.resources.dll
+K:\c#Form\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama_-17193.csprojResolveAssemblyReference.cache
+K:\c#Form\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama__17193.Form1.resources
+K:\c#Form\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama__17193.Properties.Resources.resources
+K:\c#Form\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama__17193.Form1.tr-TR.resources
+K:\c#Form\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama_-17193.csproj.GenerateResource.Cache
+K:\c#Form\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\tr-TR\DirencHesaplama_-17193.resources.dll
+D:\Bilişim Teknolojileri\c#Form\DirencHesaplama_-17193\DirencHesaplama_-17193\bin\Debug\DirencHesaplama_-17193.exe.config
+D:\Bilişim Teknolojileri\c#Form\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama_-17193.exe
+D:\Bilişim Teknolojileri\c#Form\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama_-17193.pdb
+D:\Bilişim Teknolojileri\c#Form\DirencHesaplama_-17193\DirencHesaplama_-17193\bin\Debug\DirencHesaplama_-17193.exe
+D:\Bilişim Teknolojileri\c#Form\DirencHesaplama_-17193\DirencHesaplama_-17193\bin\Debug\DirencHesaplama_-17193.pdb
+D:\Bilişim Teknolojileri\c#Form\DirencHesaplama_-17193\DirencHesaplama_-17193\bin\Debug\tr-TR\DirencHesaplama_-17193.resources.dll
+D:\Bilişim Teknolojileri\c#Form\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama_-17193.csprojResolveAssemblyReference.cache
+D:\Bilişim Teknolojileri\c#Form\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama__17193.Form1.resources
+D:\Bilişim Teknolojileri\c#Form\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama__17193.Properties.Resources.resources
+D:\Bilişim Teknolojileri\c#Form\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama__17193.Form1.tr-TR.resources
+D:\Bilişim Teknolojileri\c#Form\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\DirencHesaplama_-17193.csproj.GenerateResource.Cache
+D:\Bilişim Teknolojileri\c#Form\DirencHesaplama_-17193\DirencHesaplama_-17193\obj\Debug\tr-TR\DirencHesaplama_-17193.resources.dll
